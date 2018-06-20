@@ -1,0 +1,46 @@
+
+.col-md1 h3 a{
+  	color: #000;
+	text-decoration: none;
+}
+.price h5{
+	color:#000;
+	font-size: 1.5em;
+  margin-top: 3px;
+  clear: both;
+}
+
+.content-top {
+  padding: 4em 0;
+}
+.content-top1 {
+  padding: 2em 0;
+}
+.col-md1 {
+  margin-left:25%;
+  margin-right:25%;
+  border: 1px solid #5573d3;
+  padding: 2em;
+  border-bottom:5px solid #5573d3;
+  margin-top: 30px;
+}
+.col-md1:hover {
+  border: 1px solid #82FA58;
+  border-bottom: 5px solid #82FA58;
+  transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+}
+.col-md1 img{
+  margin-left:40%;
+}
+.col-md1 h3{
+  font-size: 35px;
+}
+.side h5{
+  float: left;
+  color: #000;
+  font-size: 1.5em;
+}
