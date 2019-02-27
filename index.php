@@ -1,7 +1,7 @@
 <?php
 
      // Criar objeto de conexao
-    $conecta = mysqli_connect('localhost', 'unixlira', '#Fibra13', 'new_way');
+    $conecta = mysqli_connect('localhost', 'unixlira', '#', 'new_way');
     if (mysqli_connect_errno()) {
         die('Conexao falhou: '.mysqli_connect_errno());
     }
